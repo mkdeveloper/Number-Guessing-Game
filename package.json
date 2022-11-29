@@ -1,11 +1,11 @@
 {
-  "name": "mk-guessing-gm",
+  "name": "mk-guess-gm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "mk-guessing-gm": "./bin/index.js"
+    "mk-guess-gm": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
