@@ -1,0 +1,37 @@
+{
+  "name": "mk-guessing-gm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mk-guessing-gm": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdeveloper/Number-guessing-Game.git"
+  },
+  "keywords": [
+    "number",
+    "guessing",
+    "game"
+  ],
+  "author": "Muhammad Khubaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdeveloper/Number-guessing-Game/issues"
+  },
+  "homepage": "https://github.com/mkdeveloper/Number-guessing-Game#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3"
+  }
+}
